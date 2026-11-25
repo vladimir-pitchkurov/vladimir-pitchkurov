@@ -15,14 +15,14 @@ I take products from the first idea to release — and keep them running in prod
 ### [Owlfold](https://owlfold.com) — cozy games, honestly made
 My independent studio of calm logic games and focus apps. I own every product end to end: idea, design decisions, Flutter app, NestJS backend, store release, support and production.
 
-### [Hatki](https://hatki.app) — a calm logic puzzle game
+### [Hatki](https://hatki.app) — a calm logic puzzle game · now on the App Store
 Help forest animals find their cozy huts.
 - 2,200 levels, each with a single logical solution — no guessing, no timers
 - Daily puzzle, comic-style story, hints that teach real solving techniques
 - Fully offline, 22 languages
 - **Flutter** · **NestJS** · **PostgreSQL** · **Redis** · **Docker** · **CI/CD**
 
-▶️ **[Play the web demo](https://hatki.app/play)** · iOS release in progress, Android next
+📱 **[Download on the App Store](https://apps.apple.com/app/id6825327882)** · ▶️ [Play the web demo](https://hatki.app/play) · Android next
 
 ### [DevSense](https://devsense.work) — my tech blog
 Guides on databases, backend architecture and PHP/Laravel, with quizzes.
