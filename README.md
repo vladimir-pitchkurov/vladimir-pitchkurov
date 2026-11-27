@@ -22,7 +22,7 @@ Help forest animals find their cozy huts.
 - Fully offline, 22 languages
 - **Flutter** · **NestJS** · **PostgreSQL** · **Redis** · **Docker** · **CI/CD**
 
-📱 **[Download on the App Store](https://apps.apple.com/app/id6825327882)** · ▶️ [Play the web demo](https://hatki.app/play) · Android next
+📱 **[Download on the App Store](https://apps.apple.com/ua/app/id6825327882)** (Ukraine for now) · ▶️ [Play the web demo](https://hatki.app/play) · Android next
 
 ### [DevSense](https://devsense.work) — my tech blog
 Guides on databases, backend architecture and PHP/Laravel, with quizzes.
